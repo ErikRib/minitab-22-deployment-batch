@@ -1,0 +1,1 @@
+# minitab-22-deployment-batch
